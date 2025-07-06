@@ -68,7 +68,7 @@
 
 ---
 
-## 🧪 Depreciated Exams
+## 🧪 Exámenes Commond Core (Depreciated)
 
 Puedes encontrar mis repositorios de exámenes aquí:
 
