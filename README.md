@@ -86,14 +86,22 @@ Puedes encontrar mis repositorios de testing aquí:
 ---
 
 ## 📚 Proyectos Personales
+| Proyecto         | Descripción |
+|------------------|-------------|
+| [`pdf2data`](https://github.com/4trastos/PDF_Converter): Proyecto personal para convertir PDFs en datos estructurados (`XML`, `CSV`, `JSON`), ideal para scraping, NLP y automatización de flujos documentales.|
 
-- [`pdf2data`](https://github.com/4trastos/PDF_Converter): Proyecto personal para convertir PDFs en datos estructurados (`XML`, `CSV`, `JSON`), ideal para scraping, NLP y automatización de flujos documentales.
+---
+
+## 📚 Tutoriales
+| Proyecto         | Descripción |
+|------------------|-------------|
+| [`CloudServer_Tutorial`](https://github.com/4trastos/CloudServer_Tutorial): Configuración de un Servidor Ubuntu para Servicios en la Nube.|
 
 ---
 
 ## 📚 Cursos, Tutoriales y Documentación
 
-- [`tutorial42`](https://github.com/4trastos/tutorial42): Recopilación de apuntes, recursos y ejemplos útiles del core de 42.
+- [`CloudServer_Tutorial`](https://github.com/4trastos/CloudServer_Tutorial): Configuración de un Servidor Ubuntu para Servicios en la Nube.
 
 ---
 
