@@ -17,12 +17,12 @@
 
 | Proyecto         | Descripción |
 |------------------|-------------|
-| [`ft_containers`](https://github.com/4trastos/ft_containers) | Reimplementación de estructuras STL en C++ |
-| [`ft_printf`](https://github.com/4trastos/ft_printf) | Implementación de `printf` desde cero |
-| [`ft_philosophers`](https://github.com/4trastos/ft_philosophers) | Problema clásico de concurrencia (mutexes, hilos) |
-| [`ft_minitalk`](https://github.com/4trastos/ft_minitalk) | Comunicación entre procesos vía señales UNIX |
-| [`ft_get_next_line`](https://github.com/4trastos/ft_get_next_line) | Lector línea a línea desde archivo |
-| [`libft`](https://github.com/4trastos/libft) | Librería estándar personal en C |
+| [`inception`](https://github.com/4trastos/Inception) | Reimplementación de estructuras STL en C++ |
+| [`ft_printf`](https://github.com/4trastos/Printf) | Implementación de `printf` desde cero |
+| [`ft_philosophers`](https://github.com/4trastos/Philosophers) | Problema clásico de concurrencia (mutexes, hilos) |
+| [`ft_get_next_line`](https://github.com/4trastos/Get_Next_Line) | Lector línea a línea desde archivo |
+| [`libft`](https://github.com/4trastos/Libft) | Librería estándar personal en C |
+| [`libasm`](https://github.com/4trastos/Libasm) | Pequeña Librería estándar personal en ASM |
 
 ---
 
@@ -39,10 +39,8 @@
 
 | Proyecto         | Descripción |
 |------------------|-------------|
-| [`ft_so_long`](https://github.com/4trastos/ft_so_long) | Juego 2D con MiniLibX |
-| [`ft_cub3d`](https://github.com/4trastos/ft_cub3d) | Motor 3D tipo Wolfenstein (raycasting) |
-| [`ft_fdf`](https://github.com/4trastos/ft_fdf) | Wireframe 3D con proyección isométrica |
-| [`ft_fractol`](https://github.com/4trastos/ft_fractol) | Explorador fractal interactivo |
+| [`ft_so_long`](https://github.com/4trastos/So_long) | Juego 2D con MiniLibX |
+| [`ft_cub3d`](https://github.com/4trastos/cub3D) | Motor 3D tipo Wolfenstein (raycasting) |
 
 ---
 
@@ -50,7 +48,7 @@
 
 | Proyecto         | Descripción |
 |------------------|-------------|
-| [`ft_push_swap`](https://github.com/4trastos/ft_push_swap) | Ordenación de pilas con mínimo de operaciones |
+| [`ft_push_swap`](https://github.com/4trastos/Push_swap) | Ordenación de pilas con mínimo de operaciones |
 
 ---
 
@@ -58,7 +56,7 @@
 
 | Proyecto         | Descripción |
 |------------------|-------------|
-| [`ft_transcendence`](https://github.com/4trastos/ft_transcendence) | Aplicación web compleja de fin de core (juego multijugador) |
+| [`ft_transcendence`](https://github.com/4trastos/Transcendence) | Aplicación web compleja de fin de core (juego multijugador) |
 
 ---
 
@@ -86,10 +84,15 @@ Puedes encontrar mis repositorios de testing aquí:
 
 ---
 
+## 📚 Proyectos Personales
+
+- [`pdf2data`](https://github.com/4trastos/PDF_Converter): Proyecto personal para convertir PDFs en datos estructurados (`XML`, `CSV`, `JSON`), ideal para scraping, NLP y automatización de flujos documentales.
+
+---
+
 ## 📚 Cursos, Tutoriales y Documentación
 
 - [`tutorial42`](https://github.com/4trastos/tutorial42): Recopilación de apuntes, recursos y ejemplos útiles del core de 42.
-- [`pdf2data`](https://github.com/4trastos/pdf2data): Proyecto personal para convertir PDFs en datos estructurados (`XML`, `CSV`, `JSON`), ideal para scraping, NLP y automatización de flujos documentales.
 
 ---
 
