@@ -91,6 +91,7 @@ Puedes encontrar mis repositorios de testing aquí:
 ---
 
 ## 📚 Proyectos Personales
+
 | Proyecto         | Descripción |
 |------------------|-------------|
 | [`pdf2data`](https://github.com/4trastos/PDF_Converter) | Proyecto personal para convertir PDFs en datos estructurados (`XML`, `CSV`, `JSON`), ideal para scraping, NLP y automatización de flujos documentales.|
@@ -98,16 +99,17 @@ Puedes encontrar mis repositorios de testing aquí:
 ---
 
 ## 📚 Tutoriales
+
 | Proyecto         | Descripción |
 |------------------|-------------|
 | [`CloudServer_Tutorial`](https://github.com/4trastos/CloudServer_Tutorial) | Configuración de un Servidor Ubuntu para Servicios en la Nube.|
 
 ---
 
-## 📚 Cursos, Tutoriales y Documentación
-
-- [`CloudServer_Tutorial`](https://github.com/4trastos/CloudServer_Tutorial): Configuración de un Servidor Ubuntu para Servicios en la Nube.
-
+## 📚 Cursos y Documentación
+| Curso            | Descripción |
+|------------------|-------------|
+| [`IBM AI Engineering Specialization`](https://github.com/4trastos/IBM-AI-Engineering-Specialization) | Prepárese para trabajar como ingeniero de IA. Desarrolle las habilidades de ingeniería de IA y la experiencia práctica que necesita |
 ---
 
 ## 🧾 Certificaciones Destacadas
