@@ -88,7 +88,7 @@ Puedes encontrar mis repositorios de testing aquí:
 
 ## 🔗 Conecta Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidgallegogomez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-gallego-gomez-9922b09a/)
 [![GitHub](https://img.shields.io/badge/GitHub-4trastos-181717?logo=github)](https://github.com/4trastos)
 
 📫 david.gallego[at]email.com (opcional si quieres añadir tu correo real)
