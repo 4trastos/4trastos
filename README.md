@@ -68,25 +68,18 @@
 
 ---
 
-## 🧪 Testers y Herramientas
+## 🧪 Depreciated Exams
 
-Puedes encontrar mis repositorios de testing aquí:
+Puedes encontrar mis repositorios de exámenes aquí:
 
 <details>
   <summary>📂 Mostrar lista</summary>
 
-- [`ft_cub3d_tester`](https://github.com/4trastos/ft_cub3d_tester)
-- [`ft_containers_tester`](https://github.com/4trastos/ft_containers_tester)
-- [`ft_exam`](https://github.com/4trastos/ft_exam)
-- [`ft_fdf_tester`](https://github.com/4trastos/ft_fdf_tester)
-- [`ft_fractol_tester`](https://github.com/4trastos/ft_fractol_tester)
-- [`ft_gnl_tester`](https://github.com/4trastos/ft_gnl_tester)
-- [`ft_irc_tester`](https://github.com/4trastos/ft_irc_tester)
-- [`ft_minitalk_tester`](https://github.com/4trastos/ft_minitalk_tester)
-- [`ft_philosophers_tester`](https://github.com/4trastos/ft_philosophers_tester)
-- [`ft_printf_tester`](https://github.com/4trastos/ft_printf_tester)
-- [`ft_push_swap_tester`](https://github.com/4trastos/ft_push_swap_tester)
-- [`ft_so_long_tester`](https://github.com/4trastos/ft_so_long_tester)
+- [`Exam_Rank_06`](https://github.com/4trastos/Exam_Rank_06)
+- [`Exam_Rank_05`](https://github.com/4trastos/Exam_Rank_05)
+- [`Exam_Rank_04`](https://github.com/4trastos/Exam_Rank_04)
+- [`Exam_Rank_03`](https://github.com/4trastos/Exam_Rank_03)
+- [`Exam_Rank_02`](https://github.com/4trastos/Exam_Rank_02)
 
 </details>
 
