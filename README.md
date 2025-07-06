@@ -18,6 +18,7 @@
 | Proyecto         | Descripción |
 |------------------|-------------|
 | [`Minishell`](https://github.com/4trastos/Minishell) | Implementación de un pequeño shell POSIX desde cero |
+| [`pipex`](https://github.com/4trastos/pipex) | Reimplementación de la funcionalidad de pipe |
 | [`ft_printf`](https://github.com/4trastos/Printf) | Implementación de `printf` desde cero |
 | [`ft_philosophers`](https://github.com/4trastos/Philosophers) | Problema clásico de concurrencia (mutexes, hilos) |
 | [`ft_get_next_line`](https://github.com/4trastos/Get_Next_Line) | Lector línea a línea desde archivo |
