@@ -23,7 +23,6 @@
 | [`ft_get_next_line`](https://github.com/4trastos/Get_Next_Line) | Lector línea a línea desde archivo |
 | [`libft`](https://github.com/4trastos/Libft) | Librería estándar personal en C |
 | [`libasm`](https://github.com/4trastos/Libasm) | Pequeña Librería estándar personal en ASM |
-| [`webserv`](https://github.com/4trastos/Webserv) | Implementación servidor HTTP en C++, con soporte para múltiples conexiones, CGI y manejo de sockets. |
 
 ---
 
@@ -31,6 +30,7 @@
 
 | Proyecto         | Descripción |
 |------------------|-------------|
+| [`webserv`](https://github.com/4trastos/Webserv) | Implementación servidor HTTP en C++, con soporte para múltiples conexiones, CGI y manejo de sockets. |
 | [`ft_irc`](https://github.com/4trastos/ft_irc) | Servidor IRC completo |
 | [`ft_pingpong`](https://github.com/4trastos/ft_pingpong) | Comunicación RDMA de baja latencia |
 
