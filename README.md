@@ -62,33 +62,46 @@
 
 ---
 
-## 🛠️ Exámenes y Tools de 42
+## 🧪 Testers y Herramientas
 
-Proyectos creados como parte de los exámenes en 42 Madrid:
+Puedes encontrar mis repositorios de testing aquí:
 
-- [`ft_exam`](https://github.com/4trastos/ft_exam)  
-- Testers asociados a proyectos ft_*  
-- Herramientas de validación: `ft_cub3d_tester`, `ft_containers_tester`, `ft_fdf_tester`, `ft_fractol_tester`, `ft_gnl_tester`, `ft_irc_tester`, `ft_minitalk_tester`, `ft_philosophers_tester`, `ft_printf_tester`, `ft_push_swap_tester`, `ft_so_long_tester`
+<details>
+  <summary>📂 Mostrar lista</summary>
+
+- [`ft_cub3d_tester`](https://github.com/4trastos/ft_cub3d_tester)
+- [`ft_containers_tester`](https://github.com/4trastos/ft_containers_tester)
+- [`ft_exam`](https://github.com/4trastos/ft_exam)
+- [`ft_fdf_tester`](https://github.com/4trastos/ft_fdf_tester)
+- [`ft_fractol_tester`](https://github.com/4trastos/ft_fractol_tester)
+- [`ft_gnl_tester`](https://github.com/4trastos/ft_gnl_tester)
+- [`ft_irc_tester`](https://github.com/4trastos/ft_irc_tester)
+- [`ft_minitalk_tester`](https://github.com/4trastos/ft_minitalk_tester)
+- [`ft_philosophers_tester`](https://github.com/4trastos/ft_philosophers_tester)
+- [`ft_printf_tester`](https://github.com/4trastos/ft_printf_tester)
+- [`ft_push_swap_tester`](https://github.com/4trastos/ft_push_swap_tester)
+- [`ft_so_long_tester`](https://github.com/4trastos/ft_so_long_tester)
+
+</details>
 
 ---
 
-## 📘 Formación & Tutoriales
+## 📚 Cursos, Tutoriales y Documentación
 
-Estoy creando apuntes y tutoriales sobre:
-- Programación de bajo nivel y kernel
-- Uso avanzado de Docker y KVM
-- Sistemas PLC y redes industriales
-- Machine Learning aplicado a sistemas
-
-(Este contenido estará disponible pronto).
+- [`tutorial42`](https://github.com/4trastos/tutorial42): Recopilación de apuntes, recursos y ejemplos útiles del core de 42.
+- [`pdf2data`](https://github.com/4trastos/pdf2data): Proyecto personal para convertir PDFs en datos estructurados (`XML`, `CSV`, `JSON`), ideal para scraping, NLP y automatización de flujos documentales.
 
 ---
 
-## 🔧 Proyecto Personal: Conversión PDF → XML/CSV/JSON
+## 🧾 Certificaciones Destacadas
 
-| Proyecto         | Descripción |
-|------------------|-------------|
-| [`pdf-converter`](https://github.com/4trastos/pdf-converter) | Herramienta que convierte PDFs a XML, CSV y JSON de manera automatizada |
+- **Desarrollo Avanzado de Linux Integrado** – Universidad de Colorado Boulder (Coursera)  
+- **Embedded Systems & Kernel Development** – Universidad de Colorado Boulder  
+- **Build Your Own Linux Kernel** – Universidad de Colorado Boulder  
+- **Introduction to Cybersecurity** – Cisco Networking Academy  
+- **Cybersecurity Essentials** – Cisco Networking Academy  
+
+🔗 Más en mi perfil de [LinkedIn](https://www.linkedin.com/in/david-gallego-gomez-9922b09a/details/certifications/)
 
 ---
 
@@ -97,7 +110,7 @@ Estoy creando apuntes y tutoriales sobre:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-gallego-gomez-9922b09a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-4trastos-181717?logo=github)](https://github.com/4trastos)
 
-📫 Contacto: david.gallego[at]email.com
+📫 david.gallego[at]email.com (opcional)
 
 ---
 
