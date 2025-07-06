@@ -121,11 +121,13 @@ Puedes encontrar mis repositorios de exámenes aquí:
 
 ## 🧾 Certificaciones Destacadas
 
-- **Desarrollo Avanzado de Linux Integrado** – Universidad de Colorado Boulder (Coursera)  
-- **Embedded Systems & Kernel Development** – Universidad de Colorado Boulder  
-- **Build Your Own Linux Kernel** – Universidad de Colorado Boulder  
-- **Introduction to Cybersecurity** – Cisco Networking Academy  
-- **Cybersecurity Essentials** – Cisco Networking Academy  
+- **Advanced Embedded Linux Development** – University of Colorado Boulder (currently studying)  
+- **The Fundamentals of RDMA Programming** – Nvidia (Oficial)  
+- **Deep Learning with Keras and Tensorflow** – IBM (Oficial)  
+- **Introduction to Deep Learning & Neural Networks with Keras** – IBM (Oficial)  
+- **Machine Learning with Python** – IBM (Oficial)   
+- **Deploy Artificial Intelligence systems based on machine learning** – Moba Skill Training
+- **Advanced PLC Certificate** – Afa Formación
 
 🔗 Más en mi perfil de [LinkedIn](https://www.linkedin.com/in/david-gallego-gomez-9922b09a/details/certifications/)
 
