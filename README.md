@@ -23,6 +23,7 @@
 | [`ft_get_next_line`](https://github.com/4trastos/Get_Next_Line) | Lector línea a línea desde archivo |
 | [`libft`](https://github.com/4trastos/Libft) | Librería estándar personal en C |
 | [`libasm`](https://github.com/4trastos/Libasm) | Pequeña Librería estándar personal en ASM |
+| [`webserv`](https://github.com/4trastos/Webserv) | Implementación servidor HTTP en C++, con soporte para múltiples conexiones, CGI y manejo de sockets. |
 
 ---
 
