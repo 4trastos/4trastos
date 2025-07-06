@@ -22,7 +22,7 @@
 | [`ft_philosophers`](https://github.com/4trastos/ft_philosophers) | Problema clásico de concurrencia (mutexes, hilos) |
 | [`ft_minitalk`](https://github.com/4trastos/ft_minitalk) | Comunicación entre procesos vía señales UNIX |
 | [`ft_get_next_line`](https://github.com/4trastos/ft_get_next_line) | Lector línea a línea desde archivo |
-| [`ft_libft`](https://github.com/4trastos/libft) | Librería estándar personal en C |
+| [`libft`](https://github.com/4trastos/libft) | Librería estándar personal en C |
 
 ---
 
@@ -62,36 +62,42 @@
 
 ---
 
-## 🧪 Testers y Herramientas
+## 🛠️ Exámenes y Tools de 42
 
-Puedes encontrar mis repositorios de testing aquí:
+Proyectos creados como parte de los exámenes en 42 Madrid:
 
-<details>
-  <summary>📂 Mostrar lista</summary>
+- [`ft_exam`](https://github.com/4trastos/ft_exam)  
+- Testers asociados a proyectos ft_*  
+- Herramientas de validación: `ft_cub3d_tester`, `ft_containers_tester`, `ft_fdf_tester`, `ft_fractol_tester`, `ft_gnl_tester`, `ft_irc_tester`, `ft_minitalk_tester`, `ft_philosophers_tester`, `ft_printf_tester`, `ft_push_swap_tester`, `ft_so_long_tester`
 
-- `ft_cub3d_tester`
-- `ft_containers_tester`
-- `ft_exam`
-- `ft_fdf_tester`
-- `ft_fractol_tester`
-- `ft_gnl_tester`
-- `ft_irc_tester`
-- `ft_minitalk_tester`
-- `ft_philosophers_tester`
-- `ft_printf_tester`
-- `ft_push_swap_tester`
-- `ft_so_long_tester`
+---
 
-</details>
+## 📘 Formación & Tutoriales
+
+Estoy creando apuntes y tutoriales sobre:
+- Programación de bajo nivel y kernel
+- Uso avanzado de Docker y KVM
+- Sistemas PLC y redes industriales
+- Machine Learning aplicado a sistemas
+
+(Este contenido estará disponible pronto).
+
+---
+
+## 🔧 Proyecto Personal: Conversión PDF → XML/CSV/JSON
+
+| Proyecto         | Descripción |
+|------------------|-------------|
+| [`pdf-converter`](https://github.com/4trastos/pdf-converter) | Herramienta que convierte PDFs a XML, CSV y JSON de manera automatizada |
 
 ---
 
 ## 🔗 Conecta Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-gallego-gomez-9922b09a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-gallego-gomez-9922b09a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-4trastos-181717?logo=github)](https://github.com/4trastos)
 
-📫 david.gallego[at]email.com (opcional si quieres añadir tu correo real)
+📫 Contacto: david.gallego[at]email.com
 
 ---
 
