@@ -60,6 +60,14 @@
 
 ---
 
+## 💻 Proyectos de C++ (Common Core 42)
+
+| Proyecto         | Descripción |
+|------------------|-------------|
+| [`inception`](https://github.com/4trastos/Inception) |  Proyectos de C++ que cubren desde los fundamentos del lenguaje hasta conceptos avanzados de POO, polimorfismo y manejo de excepciones. |
+
+---
+
 ## ⭐ Proyecto Final
 
 | Proyecto         | Descripción |
@@ -68,7 +76,7 @@
 
 ---
 
-## 🧪 Exámenes Commond Core (Depreciated) y Piscina
+## 🧪 Exámenes (Common Core 42 - Depreciated) y Piscina de Acceso
 
 Puedes encontrar mis repositorios de exámenes aquí:
 
@@ -84,7 +92,7 @@ Puedes encontrar mis repositorios de exámenes aquí:
 </details>
 
 <details>
-  <summary>📂 Mostrar Proyectos Piscina Acceso</summary>
+  <summary>📂 Mostrar Proyectos Piscina de Acceso</summary>
 
 - [`C-Piscine`](https://github.com/4trastos/C-Piscine)
 
@@ -100,18 +108,13 @@ Puedes encontrar mis repositorios de exámenes aquí:
 
 ---
 
-## 📚 Tutoriales
+## 🧩 Tutoriales, Cursos y Documentación
 
 | Proyecto         | Descripción |
 |------------------|-------------|
 | [`CloudServer_Tutorial`](https://github.com/4trastos/CloudServer_Tutorial) | Configuración de un Servidor Ubuntu para Servicios en la Nube.|
+| [`IBM-AI-Engineering-Specialization`](https://github.com/4trastos/IBM-AI-Engineering-Specialization) | Ingeniería de IA experiencia práctica |
 
----
-
-## 📚 Cursos y Documentación
-| Curso            | Descripción |
-|------------------|-------------|
-| [`IBM AI Engineering Specialization`](https://github.com/4trastos/IBM-AI-Engineering-Specialization) | Prepárese para trabajar como ingeniero de IA. Desarrolle las habilidades de ingeniería de IA y la experiencia práctica que necesita |
 ---
 
 ## 🧾 Certificaciones Destacadas
