@@ -68,18 +68,25 @@
 
 ---
 
-## 🧪 Exámenes Commond Core (Depreciated)
+## 🧪 Exámenes Commond Core (Depreciated) y Piscina
 
 Puedes encontrar mis repositorios de exámenes aquí:
 
 <details>
-  <summary>📂 Mostrar lista</summary>
+  <summary>📂 Mostrar Exámenes</summary>
 
 - [`Exam_Rank_06`](https://github.com/4trastos/Exam_Rank_06)
 - [`Exam_Rank_05`](https://github.com/4trastos/Exam_Rank_05)
 - [`Exam_Rank_04`](https://github.com/4trastos/Exam_Rank_04)
 - [`Exam_Rank_03`](https://github.com/4trastos/Exam_Rank_03)
 - [`Exam_Rank_02`](https://github.com/4trastos/Exam_Rank_02)
+
+</details>
+
+<details>
+  <summary>📂 Mostrar Proyectos Piscina Acceso</summary>
+
+- [`C-Piscine`](https://github.com/4trastos/C-Piscine)
 
 </details>
 
