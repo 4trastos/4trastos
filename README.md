@@ -64,7 +64,7 @@
 
 | Proyecto         | Descripción |
 |------------------|-------------|
-| [`inception`](https://github.com/4trastos/Inception) |  Proyectos de C++ que cubren desde los fundamentos del lenguaje hasta conceptos avanzados de POO, polimorfismo y manejo de excepciones. |
+| [`CPP`](https://github.com/4trastos/Inception) |  Proyectos de C++ que cubren desde los fundamentos del lenguaje hasta conceptos avanzados de POO, polimorfismo y manejo de excepciones. |
 
 ---
 
