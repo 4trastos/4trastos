@@ -17,13 +17,14 @@
 
 | Proyecto         | Descripción |
 |------------------|-------------|
+| [`ft_nm`](https://github.com/4trastos/ft_nm) | Reimplementación de nm de Unix, para inspeccionar los símbolos de objetos binarios (ejecutables, librerías) |
+| [`libasm`](https://github.com/4trastos/Libasm) | Pequeña Librería estándar personal en ASM |
 | [`Minishell`](https://github.com/4trastos/Minishell) | Implementación de un pequeño shell POSIX desde cero |
 | [`pipex`](https://github.com/4trastos/pipex) | Reimplementación de la funcionalidad de pipe |
-| [`ft_printf`](https://github.com/4trastos/Printf) | Implementación de `printf` desde cero |
 | [`ft_philosophers`](https://github.com/4trastos/Philosophers) | Problema clásico de concurrencia (mutexes, hilos) |
+| [`ft_printf`](https://github.com/4trastos/Printf) | Implementación de `printf` desde cero |
 | [`ft_get_next_line`](https://github.com/4trastos/Get_Next_Line) | Lector línea a línea desde archivo |
 | [`libft`](https://github.com/4trastos/Libft) | Librería estándar personal en C |
-| [`libasm`](https://github.com/4trastos/Libasm) | Pequeña Librería estándar personal en ASM |
 
 ---
 
@@ -39,8 +40,8 @@
 
 | Proyecto         | Descripción |
 |------------------|-------------|
-| [`ft_so_long`](https://github.com/4trastos/So_long) | Juego 2D con MiniLibX |
 | [`ft_cub3d`](https://github.com/4trastos/cub3D) | Motor 3D tipo Wolfenstein (raycasting) |
+| [`ft_so_long`](https://github.com/4trastos/So_long) | Juego 2D con MiniLibX |
 
 ---
 
