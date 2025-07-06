@@ -17,7 +17,6 @@
 
 | Proyecto         | Descripción |
 |------------------|-------------|
-| [`inception`](https://github.com/4trastos/Inception) | Arquitectura DevOps en Docker: Nginx, WordPress, MariaDB, Redis, FTP, Adminer y más.|
 | [`ft_printf`](https://github.com/4trastos/Printf) | Implementación de `printf` desde cero |
 | [`ft_philosophers`](https://github.com/4trastos/Philosophers) | Problema clásico de concurrencia (mutexes, hilos) |
 | [`ft_get_next_line`](https://github.com/4trastos/Get_Next_Line) | Lector línea a línea desde archivo |
@@ -31,8 +30,6 @@
 | Proyecto         | Descripción |
 |------------------|-------------|
 | [`webserv`](https://github.com/4trastos/Webserv) | Implementación servidor HTTP en C++, con soporte para múltiples conexiones, CGI y manejo de sockets. |
-| [`ft_irc`](https://github.com/4trastos/ft_irc) | Servidor IRC completo |
-| [`ft_pingpong`](https://github.com/4trastos/ft_pingpong) | Comunicación RDMA de baja latencia |
 
 ---
 
@@ -50,6 +47,14 @@
 | Proyecto         | Descripción |
 |------------------|-------------|
 | [`ft_push_swap`](https://github.com/4trastos/Push_swap) | Ordenación de pilas con mínimo de operaciones |
+
+---
+
+## 🐳 Proyectos DevOps & Contenedores
+
+| Proyecto         | Descripción |
+|------------------|-------------|
+| [`inception`](https://github.com/4trastos/Inception) | Infraestructura modular con Docker: NGINX, WordPress, MariaDB, Redis, TLS, volumen persistente y redes virtuales, todo orquestado con docker-compose. |
 
 ---
 
