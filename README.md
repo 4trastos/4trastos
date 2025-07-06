@@ -17,7 +17,7 @@
 
 | Proyecto         | Descripción |
 |------------------|-------------|
-| [`inception`](https://github.com/4trastos/Inception) | Reimplementación de estructuras STL en C++ |
+| [`inception`](https://github.com/4trastos/Inception) | Arquitectura DevOps en Docker: Nginx, WordPress, MariaDB, Redis, FTP, Adminer y más.|
 | [`ft_printf`](https://github.com/4trastos/Printf) | Implementación de `printf` desde cero |
 | [`ft_philosophers`](https://github.com/4trastos/Philosophers) | Problema clásico de concurrencia (mutexes, hilos) |
 | [`ft_get_next_line`](https://github.com/4trastos/Get_Next_Line) | Lector línea a línea desde archivo |
