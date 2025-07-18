@@ -103,7 +103,7 @@ Puedes encontrar mis repositorios de exámenes aquí:
 
 | Proyecto         | Descripción |
 |------------------|-------------|
-| [`42 Project Tester`](https://github.com/4trastos/42-Project-Tester) | Un tester modular y automatizado para los proyectos de 42 Network:.|
+| [`42 Project Tester`](https://github.com/4trastos/42-Project-Tester) | Un tester modular y automatizado para los proyectos de 42 Network.|
 
 ---
 
