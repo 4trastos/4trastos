@@ -99,6 +99,12 @@ Puedes encontrar mis repositorios de exámenes aquí:
 
 </details>
 
+# 🧪 42 Project Tester
+
+| Proyecto         | Descripción |
+|------------------|-------------|
+| [`pdf2data`](https://github.com/4trastos/42-Project-Tester) | Un tester modular y automatizado para los proyectos de 42 Network:.|
+
 ---
 
 ## 📚 Proyectos Personales
