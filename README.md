@@ -15,65 +15,65 @@
 
 ## 🚀 Proyectos de Especialización System & Kernel
 
-| Proyecto         | Descripción |
-|------------------|-------------|
-| [`ft_nm`](https://github.com/4trastos/ft_nm) | Reimplementación de nm de Unix, para inspeccionar los símbolos de objetos binarios (ejecutables, librerías) |
-| [`libasm`](https://github.com/4trastos/Libasm) | Pequeña Librería estándar personal en ASM |
-| [`Minishell`](https://github.com/4trastos/Minishell) | Implementación de un pequeño shell POSIX desde cero |
-| [`pipex`](https://github.com/4trastos/pipex) | Reimplementación de la funcionalidad de pipe |
-| [`ft_philosophers`](https://github.com/4trastos/Philosophers) | Problema clásico de concurrencia (mutexes, hilos) |
-| [`ft_printf`](https://github.com/4trastos/Printf) | Implementación de `printf` desde cero |
-| [`ft_get_next_line`](https://github.com/4trastos/Get_Next_Line) | Lector línea a línea desde archivo |
-| [`libft`](https://github.com/4trastos/Libft) | Librería estándar personal en C |
+| Proyecto         | Descripción | Última actualización |
+|------------------|-------------|----------------------|
+| [`ft_nm`](https://github.com/4trastos/ft_nm) | Reimplementación de nm de Unix, para inspeccionar los símbolos de objetos binarios (ejecutables, librerías) | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/ft_nm?style=flat-square) |
+| [`libasm`](https://github.com/4trastos/Libasm) | Pequeña Librería estándar personal en ASM | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Libasm?style=flat-square) |
+| [`Minishell`](https://github.com/4trastos/Minishell) | Implementación de un pequeño shell POSIX desde cero | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Minishell?style=flat-square) |
+| [`pipex`](https://github.com/4trastos/pipex) | Reimplementación de la funcionalidad de pipe | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/pipex?style=flat-square) |
+| [`ft_philosophers`](https://github.com/4trastos/Philosophers) | Problema clásico de concurrencia (mutexes, hilos) | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Philosophers?style=flat-square) |
+| [`ft_printf`](https://github.com/4trastos/Printf) | Implementación de `printf` desde cero | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Printf?style=flat-square) |
+| [`ft_get_next_line`](https://github.com/4trastos/Get_Next_Line) | Lector línea a línea desde archivo | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Get_Next_Line?style=flat-square) |
+| [`libft`](https://github.com/4trastos/Libft) | Librería estándar personal en C | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Libft?style=flat-square) |
 
 ---
 
 ## 🌐 Proyectos de Redes y Comunicación
 
-| Proyecto         | Descripción |
-|------------------|-------------|
-| [`webserv`](https://github.com/4trastos/Webserv) | Implementación servidor HTTP en C++, con soporte para múltiples conexiones, CGI y manejo de sockets. |
+| Proyecto         | Descripción | Última actualización |
+|------------------|-------------|----------------------|
+| [`webserv`](https://github.com/4trastos/Webserv) | Implementación servidor HTTP en C++, con soporte para múltiples conexiones, CGI y manejo de sockets. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Webserv?style=flat-square) |
 
 ---
 
 ## 🎮 Proyectos Gráficos y Juegos
 
-| Proyecto         | Descripción |
-|------------------|-------------|
-| [`ft_cub3d`](https://github.com/4trastos/cub3D) | Motor 3D tipo Wolfenstein (raycasting) |
-| [`ft_so_long`](https://github.com/4trastos/So_long) | Juego 2D con MiniLibX |
+| Proyecto         | Descripción | Última actualización |
+|------------------|-------------|----------------------|
+| [`ft_cub3d`](https://github.com/4trastos/cub3D) | Motor 3D tipo Wolfenstein (raycasting) | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/cub3D?style=flat-square) |
+| [`ft_so_long`](https://github.com/4trastos/So_long) | Juego 2D con MiniLibX | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/So_long?style=flat-square) |
 
 ---
 
 ## 📊 Algoritmos y Estructuras de Datos
 
-| Proyecto         | Descripción |
-|------------------|-------------|
-| [`ft_push_swap`](https://github.com/4trastos/Push_swap) | Ordenación de pilas con mínimo de operaciones |
+| Proyecto         | Descripción | Última actualización |
+|------------------|-------------|----------------------|
+| [`ft_push_swap`](https://github.com/4trastos/Push_swap) | Ordenación de pilas con mínimo de operaciones | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Push_swap?style=flat-square) |
 
 ---
 
 ## 🐳 Proyectos DevOps & Contenedores
 
-| Proyecto         | Descripción |
-|------------------|-------------|
-| [`inception`](https://github.com/4trastos/Inception) | Infraestructura modular con Docker: NGINX, WordPress, MariaDB, Redis, TLS, volumen persistente y redes virtuales, todo orquestado con docker-compose. |
+| Proyecto         | Descripción | Última actualización |
+|------------------|-------------|----------------------|
+| [`inception`](https://github.com/4trastos/Inception) | Infraestructura modular con Docker: NGINX, WordPress, MariaDB, Redis, TLS, volumen persistente y redes virtuales, todo orquestado con docker-compose. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Inception?style=flat-square) |
 
 ---
 
 ## 💻 Proyectos de C++ (Common Core 42)
 
-| Proyecto         | Descripción |
-|------------------|-------------|
-| [`CPP`](https://github.com/4trastos/CPP) |  Proyectos de C++ que cubren desde los fundamentos del lenguaje hasta conceptos avanzados de POO, polimorfismo y manejo de excepciones. |
+| Proyecto         | Descripción | Última actualización |
+|------------------|-------------|----------------------|
+| [`CPP`](https://github.com/4trastos/CPP) |  Proyectos de C++ que cubren desde los fundamentos del lenguaje hasta conceptos avanzados de POO, polimorfismo y manejo de excepciones. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/CPP?style=flat-square) |
 
 ---
 
 ## ⭐ Proyecto Final
 
-| Proyecto         | Descripción |
-|------------------|-------------|
-| [`ft_transcendence`](https://github.com/4trastos/Transcendence) | Aplicación web compleja de fin de core (juego multijugador) |
+| Proyecto         | Descripción | Última actualización |
+|------------------|-------------|----------------------|
+| [`ft_transcendence`](https://github.com/4trastos/Transcendence) | Aplicación web compleja de fin de core (juego multijugador) | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Transcendence?style=flat-square) |
 
 ---
 
@@ -84,44 +84,44 @@ Puedes encontrar mis repositorios de exámenes aquí:
 <details>
   <summary>📂 Mostrar Exámenes</summary>
 
-- [`Exam_Rank_06`](https://github.com/4trastos/Exam_Rank_06)
-- [`Exam_Rank_05`](https://github.com/4trastos/Exam_Rank_05)
-- [`Exam_Rank_04`](https://github.com/4trastos/Exam_Rank_04)
-- [`Exam_Rank_03`](https://github.com/4trastos/Exam_Rank_03)
-- [`Exam_Rank_02`](https://github.com/4trastos/Exam_Rank_02)
+- [`Exam_Rank_06`](https://github.com/4trastos/Exam_Rank_06) ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Exam_Rank_06?style=flat-square)
+- [`Exam_Rank_05`](https://github.com/4trastos/Exam_Rank_05) ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Exam_Rank_05?style=flat-square)
+- [`Exam_Rank_04`](https://github.com/4trastos/Exam_Rank_04) ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Exam_Rank_04?style=flat-square)
+- [`Exam_Rank_03`](https://github.com/4trastos/Exam_Rank_03) ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Exam_Rank_03?style=flat-square)
+- [`Exam_Rank_02`](https://github.com/4trastos/Exam_Rank_02) ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Exam_Rank_02?style=flat-square)
 
 </details>
 
 <details>
   <summary>📂 Mostrar Proyectos Piscina de Acceso</summary>
 
-- [`C-Piscine`](https://github.com/4trastos/C-Piscine)
+- [`C-Piscine`](https://github.com/4trastos/C-Piscine) ![Última actualización](https://img.shields.io/github/last-commit/4trastos/C-Piscine?style=flat-square)
 
 </details>
 
 ## 🧪 42 Project Tester
 
-| Proyecto         | Descripción |
-|------------------|-------------|
-| [`42 Project Tester`](https://github.com/4trastos/42-Project-Tester) | Un tester modular y automatizado para los proyectos de 42 Network.|
+| Proyecto         | Descripción | Última actualización |
+|------------------|-------------|----------------------|
+| [`42 Project Tester`](https://github.com/4trastos/42-Project-Tester) | Un tester modular y automatizado para los proyectos de 42 Network. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/42-Project-Tester?style=flat-square) |
 
 ---
 
 ## 📚 Proyectos Personales
 
-| Proyecto         | Descripción |
-|------------------|-------------|
-| [`pdf2data`](https://github.com/4trastos/PDF_Converter) | Proyecto personal para convertir PDFs en datos estructurados (`XML`, `CSV`, `JSON`), ideal para scraping, NLP y automatización de flujos documentales.|
+| Proyecto         | Descripción | Última actualización |
+|------------------|-------------|----------------------|
+| [`pdf2data`](https://github.com/4trastos/PDF_Converter) | Proyecto personal para convertir PDFs en datos estructurados (`XML`, `CSV`, `JSON`), ideal para scraping, NLP y automatización de flujos documentales.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/PDF_Converter?style=flat-square) |
 
 ---
 
 ## 🧩 Tutoriales, Cursos y Documentación
 
-| Proyecto         | Descripción |
-|------------------|-------------|
-| [`CloudServer_Tutorial`](https://github.com/4trastos/CloudServer_Tutorial) | Configuración de un Servidor Ubuntu para Servicios en la Nube.|
-| [`Python-Tutorials`](https://github.com/4trastos/Python-Tutorials) |  Repositorio diseñado como ayuda a profundizar en conceptos avanzados y útiles de Python |
-| [`IBM-AI-Engineering-Specialization`](https://github.com/4trastos/IBM-AI-Engineering-Specialization) | Ingeniería de IA experiencia práctica |
+| Proyecto         | Descripción | Última actualización |
+|------------------|-------------|----------------------|
+| [`CloudServer_Tutorial`](https://github.com/4trastos/CloudServer_Tutorial) | Configuración de un Servidor Ubuntu para Servicios en la Nube.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/CloudServer_Tutorial?style=flat-square) |
+| [`Python-Tutorials`](https://github.com/4trastos/Python-Tutorials) |  Repositorio diseñado como ayuda a profundizar en conceptos avanzados y útiles de Python | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Python-Tutorials?style=flat-square) |
+| [`IBM-AI-Engineering-Specialization`](https://github.com/4trastos/IBM-AI-Engineering-Specialization) | Ingeniería de IA experiencia práctica | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/IBM-AI-Engineering-Specialization?style=flat-square) |
 
 ---
 
