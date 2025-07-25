@@ -112,6 +112,7 @@ Puedes encontrar mis repositorios de exámenes aquí:
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
 | [`pdf2data`](https://github.com/4trastos/PDF_Converter) | Proyecto personal para convertir PDFs en datos estructurados (`XML`, `CSV`, `JSON`), ideal para scraping, NLP y automatización de flujos documentales.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/PDF_Converter?style=flat-square) |
+| [`pdf2data`](https://github.com/4trastos/PDF_Converter) | Proyecto personal para convertir PDFs en datos estructurados (`XML`, `CSV`, `JSON`), ideal para scraping, NLP y automatización de flujos documentales.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/PDF_Converter?style=flat-square) |
 
 ---
 
