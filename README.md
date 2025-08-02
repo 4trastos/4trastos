@@ -18,6 +18,7 @@
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
 | [`ft_nm`](https://github.com/4trastos/ft_nm) | Reimplementación de nm de Unix, para inspeccionar los símbolos de objetos binarios (ejecutables, librerías) | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/ft_nm?style=flat-square) |
+| [`ft_nm`](https://github.com/4trastos/ft_nm) | Reimplementación de nm de Unix, para inspeccionar los símbolos de objetos binarios (ejecutables, librerías) | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/ft_nm?style=flat-square) |
 | [`libasm`](https://github.com/4trastos/Libasm) | Pequeña Librería estándar personal en ASM | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Libasm?style=flat-square) |
 | [`Minishell`](https://github.com/4trastos/Minishell) | Implementación de un pequeño shell POSIX desde cero | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Minishell?style=flat-square) |
 | [`pipex`](https://github.com/4trastos/pipex) | Reimplementación de la funcionalidad de pipe | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/pipex?style=flat-square) |
