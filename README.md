@@ -17,7 +17,7 @@
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
-| [`malloc`](https://github.com/4trastos/malloc) | Reimplementación de una biblioteca de gestión de memoria dinámica, replicando las funcionalidades de las funciones estándar malloc, free y realloc de la libc | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/malloc?style=flat-square) |
+| [`lem-ipc`](https://github.com/4trastos/lem-ipc) | Reimplementación de una biblioteca de gestión de memoria dinámica, replicando las funcionalidades de las funciones estándar malloc, free y realloc de la libc | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/lem-ipc?style=flat-square) |
 | [`malloc`](https://github.com/4trastos/malloc) | Reimplementación de una biblioteca de gestión de memoria dinámica, replicando las funcionalidades de las funciones estándar malloc, free y realloc de la libc | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/malloc?style=flat-square) |
 | [`ft_nm`](https://github.com/4trastos/ft_nm) | Recreación desde cero de 'nm' de Unix, para inspeccionar los símbolos de objetos binarios (ejecutables, librerías) | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/ft_nm?style=flat-square) |
 | [`libasm`](https://github.com/4trastos/Libasm) | Pequeña Librería estándar personal en ASM | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Libasm?style=flat-square) |
