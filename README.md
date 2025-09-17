@@ -17,6 +17,7 @@
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
+| [`lem-ipc`](https://github.com/4trastos/strace) | `strace` es una herramienta de depuración para Linux que utiliza la función del kernel `ptrace` para monitorear las llamadas al sistema y las señales de un programa. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/lem-ipc?style=flat-square) |
 | [`lem-ipc`](https://github.com/4trastos/lem-ipc) | El objetivo del proyecto es que dos procesos se comuniquen e interactúen. Las preguntas frecuentes incluidas en el archivo faq.txt forman parte del tema. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/lem-ipc?style=flat-square) |
 | [`malloc`](https://github.com/4trastos/malloc) | Reimplementación de una biblioteca de gestión de memoria dinámica, replicando las funcionalidades de las funciones estándar malloc, free y realloc de la libc | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/malloc?style=flat-square) |
 | [`ft_nm`](https://github.com/4trastos/ft_nm) | Recreación desde cero de 'nm' de Unix, para inspeccionar los símbolos de objetos binarios (ejecutables, librerías) | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/ft_nm?style=flat-square) |
