@@ -72,7 +72,7 @@
 
 ---
 
-## ⭐ Proyecto Final
+## ⭐ Proyecto Final Common Core 42
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
