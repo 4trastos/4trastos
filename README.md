@@ -6,10 +6,10 @@
 
 ### 👋 ¡Hola! Soy David Gallego Gómez
 
-🎓 **Ingeniero de Sistemas & Kernel @42Madrid**  
-🛠️ Desarrollador **Low-Level**, especializado en **Docker**, **KVM**, **ML Systems**, **Redes** y **PLCs**  
-💼 Experiencia real en **E-commerce**  
-🔍 Apasionado por los sistemas operativos, el desarrollo de kernel y la optimización a bajo nivel.
+🎓 Ingeniero de Sistemas & Kernel @42Madrid
+🛠️ Desarrollador Low-Level - Docker | KVM | Redes | PLCs | Herramientas de kernel
+📊 Experiencia real en E-commerce y desarrollo de software
+🔍 Apasionado por sistemas operativos, desarrollo de kernel y optimización a bajo nivel
 
 ---
 
