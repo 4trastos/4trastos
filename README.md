@@ -37,6 +37,7 @@
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
 | [`webserv`](https://github.com/4trastos/Webserv) | Implementación servidor HTTP en C++, con soporte para múltiples conexiones, CGI y manejo de sockets. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Webserv?style=flat-square) |
+| [`ft_ping`](https://github.com/4trastos/ft_ping) | Recreación desde caro del comando `ping` | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/ft_ping?style=flat-square) |
 
 ---
 
