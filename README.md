@@ -38,10 +38,18 @@
 |------------------|-------------|----------------------|
 | [`webserv`](https://github.com/4trastos/Webserv) | Implementación servidor HTTP en C++, con soporte para múltiples conexiones, CGI y manejo de sockets. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Webserv?style=flat-square) |
 | [`ft_ping`](https://github.com/4trastos/ft_ping) | Recreación desde caro del comando `ping` comunicación IP sin procesar entre dos máquinas en una red.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/ft_ping?style=flat-square) |
-| [`ft_traceroute`](https://github.com/4trastos/ft_traceroute) | Recreación desde caro del comando `traceroute` profundizando sobre redes TCP/IP siguiendo las rutas de un paquete IP de una máquina a otra.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/ft_traceroute?style=flat-square) |
+| [`ft_traceroute`](https://github.com/4trastos/ft_traceroute) | Recreación desde caro del comando `traceroute` profundizando sobre redes TCP/IP siguiendo las rutas de un paquete IP de una máquina a otra.| ![Última actualización](https://
+
+---
+
+## 🔗 Proyectos de Cybersecuridad
+
+| Proyecto         | Descripción | Última actualización |
+|------------------|-------------|----------------------|
 | [`ft_nmap`](https://github.com/4trastos/ft_nmap) | Recodificación de utilidad de escaneo de puertos inspirada en `Nmap`, utilizando subprocesos concurrentes para optimizar drásticamente la velocidad en la identificación de servicios y la auditoría de seguridad de la red.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/ft_nmap?style=flat-square) |
 
 ---
+
 
 ## 🎮 Proyectos Gráficos y Juegos
 
