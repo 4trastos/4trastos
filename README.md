@@ -42,7 +42,7 @@
 
 ---
 
-## 🔗 Proyectos de Cybersecuridad
+## 🔗 Proyectos de Cibersecuridad
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
