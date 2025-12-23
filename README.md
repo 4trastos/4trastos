@@ -46,6 +46,7 @@
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
+| [`Snow-Crash`](https://github.com/4trastos/Snow-Crash) | Snow Crash es un wargame de seguridad. Para dominar la explotación de vulnerabilidades reales adoptando la mentalidad de un atacante mediante razonamiento lógico, paciencia y una metodología sólida.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Snow-Crash?style=flat-square) |
 | [`ft_nmap`](https://github.com/4trastos/ft_nmap) | Recodificación de utilidad de escaneo de puertos inspirada en `Nmap`, utilizando subprocesos concurrentes para optimizar drásticamente la velocidad en la identificación de servicios y la auditoría de seguridad de la red.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/ft_nmap?style=flat-square) |
 
 ---
