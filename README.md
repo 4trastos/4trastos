@@ -25,9 +25,9 @@
 | [`libasm`](https://github.com/4trastos/Libasm) | Pequeña Librería estándar personal en ASM | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Libasm?style=flat-square) |
 | [`Minishell`](https://github.com/4trastos/Minishell) | Implementación de un pequeño shell POSIX desde cero | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Minishell?style=flat-square) |
 | [`pipex`](https://github.com/4trastos/pipex) | Reimplementación de la funcionalidad de pipe | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/pipex?style=flat-square) |
-| [`ft_philosophers`](https://github.com/4trastos/Philosophers) | Problema clásico de concurrencia (mutexes, hilos) | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Philosophers?style=flat-square) |
-| [`ft_printf`](https://github.com/4trastos/Printf) | Implementación de `printf` desde cero | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Printf?style=flat-square) |
-| [`ft_get_next_line`](https://github.com/4trastos/Get_Next_Line) | Lector línea a línea desde archivo | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Get_Next_Line?style=flat-square) |
+| [`philosophers`](https://github.com/4trastos/Philosophers) | Problema clásico de concurrencia (mutexes, hilos) | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Philosophers?style=flat-square) |
+| [`printf`](https://github.com/4trastos/Printf) | Implementación de `printf` desde cero | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Printf?style=flat-square) |
+| [`get_next_line`](https://github.com/4trastos/Get_Next_Line) | Lector línea a línea desde archivo | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Get_Next_Line?style=flat-square) |
 | [`libft`](https://github.com/4trastos/Libft) | Librería estándar personal en C | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Libft?style=flat-square) |
 
 ---
