@@ -141,6 +141,7 @@ Puedes encontrar mis repositorios de exámenes aquí:
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
+| [`Retro Terminal Themes`](https://github.com/4trastos/Retro-Terminal-Themes) | Este proyecto permite cambiar fácilmente los colores de **GNOME Terminal** al estilo de computadoras antiguas.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Retro-Terminal-Themes?style=flat-square) |
 | [`CloudServer_Tutorial`](https://github.com/4trastos/CloudServer_Tutorial) | Configuración de un Servidor Ubuntu para Servicios en la Nube.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/CloudServer_Tutorial?style=flat-square) |
 | [`Python-Tutorials`](https://github.com/4trastos/Python-Tutorials) |  Repositorio diseñado como ayuda a profundizar en conceptos avanzados y útiles de Python | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Python-Tutorials?style=flat-square) |
 | [`IBM-AI-Engineering-Specialization`](https://github.com/4trastos/IBM-AI-Engineering-Specialization) | Ingeniería de IA experiencia práctica | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/IBM-AI-Engineering-Specialization?style=flat-square) |
