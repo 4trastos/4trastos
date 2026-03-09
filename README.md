@@ -75,6 +75,7 @@
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
+| [`Inception of Things (IoT)`](https://github.com/4trastos/Inception-of-Things-IoT-) | Este proyecto tiene como objetivo profundizar tus conocimientos al enseñarte a usar K3d y K3s con Vagrant. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Inception-of-Things-IoT-?style=flat-square) |
 | [`inception`](https://github.com/4trastos/Inception) | Infraestructura modular con Docker: NGINX, WordPress, MariaDB, Redis, TLS, volumen persistente y redes virtuales, todo orquestado con docker-compose. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Inception?style=flat-square) |
 
 ---
