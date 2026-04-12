@@ -6,9 +6,9 @@
 
 ### 👋 ¡Hola! Soy David Gallego Gómez
 
-🎓 Systems & Kernel Engineer @42Network (Paris) | RNCP7 (in progress)
-🛠️ Low-Level C/C++ | Linux Kernel | Embedded Systems | Kubernetes | Docker | KVM | Networks
-💼 IT Engineer @ Australair — Production infrastructure: Odoo, Nextcloud, WAF, NAS
+🎓 Systems & Kernel Engineer @42Network (Paris) | RNCP7 (in progress)  
+🛠️ Low-Level C/C++ | Linux Kernel | Embedded Systems | Kubernetes | Docker | KVM | Networks  
+💼 IT Engineer @ Australair — Production infrastructure: Odoo, Nextcloud, WAF, NAS  
 🔍 Passionate about OS internals, kernel tools, binary exploitation and low-level optimization
 
 ---
