@@ -139,7 +139,7 @@ Todas las soluciones se depuraron y probaron localmente con Criterion antes de s
 
 | Language | Rank | Katas Completed |
 |----------|------|-----------------|
-| C        | 6 kyu | 12             |
+| C        | 6 kyu | 13             |
 | C++      | —    | —               |
 | Python   | —    | —               |
 
