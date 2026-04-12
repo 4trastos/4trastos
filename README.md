@@ -174,7 +174,7 @@ Todas las soluciones se depuraron y probaron localmente con Criterion antes de s
 
 ## 🧾 Certificaciones Destacadas
 
-- **Advanced Embedded Linux Development** – University of Colorado Boulder (currently studying)  
+- **Advanced Embedded Linux Development** – University of Colorado Boulder (Oficial)  
 - **The Fundamentals of RDMA Programming** – Nvidia (Oficial)  
 - **Deep Learning with Keras and Tensorflow** – IBM (Oficial)  
 - **Introduction to Deep Learning & Neural Networks with Keras** – IBM (Oficial)  
