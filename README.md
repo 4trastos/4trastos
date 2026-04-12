@@ -126,6 +126,27 @@ Puedes encontrar mis repositorios de exámenes aquí:
 
 ---
 
+## ⚔️ CodeWars Training
+
+<p align="center">
+  <a href="https://www.codewars.com/users/4trastos">
+    <img src="https://www.codewars.com/users/4trastos/badges/large" alt="CodeWars Badge"/>
+  </a>
+</p>
+
+Practicando algoritmos y estructuras de datos en **C**, con posterior ampliación a **C++** y **Python**.
+Todas las soluciones se depuraron y probaron localmente con Criterion antes de su envío.
+
+| Language | Rank | Katas Completed |
+|----------|------|-----------------|
+| C        | 6 kyu | 12             |
+| C++      | —    | —               |
+| Python   | —    | —               |
+
+🔗 [View all solutions →](https://github.com/4trastos/CodeWars)
+
+---
+
 ## 📚 Proyectos Personales
 
 | Proyecto         | Descripción | Última actualización |
