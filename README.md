@@ -170,6 +170,7 @@ Todas las soluciones se depuraron y probaron localmente con Criterion antes de s
 | [`Python-Tutorials`](https://github.com/4trastos/Python-Tutorials) |  Repositorio diseñado como ayuda a profundizar en conceptos avanzados y útiles de Python | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Python-Tutorials?style=flat-square) |
 | [`IBM-AI-Engineering-Specialization`](https://github.com/4trastos/IBM-AI-Engineering-Specialization) | Ingeniería de IA experiencia práctica | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/IBM-AI-Engineering-Specialization?style=flat-square) |
 | [`linux-embedded-starter`](https://github.com/4trastos/linux-embedded-starter) | Guía personal para crear imágenes Linux mínimas con Buildroot y QEMU. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/linux-embedded-starter?style=flat-square) |
+| [`DirtyCow Exploit`](https://github.com/4trastos/dirty) | This exploit uses the pokemon exploit of the dirtycow vulnerability as a base and automatically generates a new passwd line.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/dirty?style=flat-square) |
 
 ---
 
