@@ -141,9 +141,9 @@ Todas las soluciones se depuraron y probaron localmente con Criterion antes de s
 
 | Language | Rank | Katas Completed |
 |----------|------|-----------------|
-| C        | 5 kyu | 23             |
-| C++      | —    | —               |
-| Python   | —    | —               |
+| C        | 5 kyu | 26             |
+| C++      | 7 kyu | 1              |
+| Python   | 8 kyu | 1              |
 
 🔗 [View all solutions →](https://github.com/4trastos/CodeWars)
 
