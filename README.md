@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas+%26+Kernel+%40+42Madrid;Desarrollador+Low+Level+%7C+Docker+%7C+KVM+%7C+Redes+%7C+PLCs;Sistemas+Operativos+%7C+Virtualizaci%C3%B3n+%7C+ML+%7C+E-commerce+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=700&lines=Systems+%26+Kernel+Engineer+%40+42Madrid;Low-Level+C%2FC%2B%2B+%7C+Linux+Kernel+%7C+Embedded+Systems;Virtualization+%7C+KVM+%7C+Docker+%7C+Networking;Production+Infrastructure+%7C+High+Availability+%7C+Performance" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👋 ¡Hola! Soy David Gallego Gómez
 
-🎓 Systems & Kernel Engineer @42Network (Paris) | RNCP7 (in progress)  
+🎓 Systems & Kernel Engineer @42Network (Paris) | RNCP7   
 🛠️ Low-Level C/C++ | Linux Kernel | Embedded Systems | Kubernetes | Docker | KVM | Networks  
 💼 IT Engineer @ Australair — Production infrastructure: Odoo, Nextcloud, WAF, NAS  
 🔍 Passionate about OS internals, kernel tools, binary exploitation and low-level optimization
@@ -137,8 +137,15 @@ Puedes encontrar mis repositorios de exámenes aquí:
   </a>
 </p>
 
-Practicando algoritmos y estructuras de datos en **C**, con posterior ampliación a **C++** y **Python**.
-Todas las soluciones se depuraron y probaron localmente con Criterion antes de su envío.
+Entrenamiento activo en algoritmos y estructuras de datos con foco en **C (low-level performance)**.  
+Top ~13% global en Codewars. Objetivo: **3 kyu**.
+
+Todas las soluciones se diseñan con enfoque en:
+- eficiencia temporal y espacial
+- control explícito de memoria
+- comportamiento determinista
+
+Testeadas localmente con Criterion antes de envío.
 
 | Language | Rank | Katas Completed |
 |----------|------|-----------------|
@@ -193,7 +200,8 @@ Todas las soluciones se depuraron y probaron localmente con Criterion antes de s
 ## 🔗 Conecta Conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-gallego-gomez-9922b09a/)  
-[![GitHub](https://img.shields.io/badge/GitHub-4trastos-181717?logo=github)](https://github.com/4trastos)
+[![GitHub](https://img.shields.io/badge/GitHub-4trastos-181717?logo=github)](https://github.com/4trastos)  
+[![Codewars](https://img.shields.io/badge/Codewars-4trastos-B1361E?logo=codewars&logoColor=white)](https://www.codewars.com/users/4trastos) 
 
 📫 info[at]4trastos.com
 
