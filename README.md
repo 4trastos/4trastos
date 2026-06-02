@@ -47,6 +47,7 @@
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
+| [`Pestilence`](https://github.com/4trastos/Pestilence) |  El objetivo aquí es poner en práctica tus habilidades para manejar archivos binarios y crear tu primer virus. ADVERTENCIA: ¡Este proyecto tiene fines exclusivamente educativos!. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Pestilence?style=flat-square) |
 | [`famine`](https://github.com/4trastos/famine) |  El objetivo aquí es poner en práctica tus habilidades para manejar archivos binarios y crear tu primer virus. ADVERTENCIA: ¡Este proyecto tiene fines exclusivamente educativos!. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/famine?style=flat-square) |
 | [`Dr_Quine`](https://github.com/4trastos/Dr_Quine) |  Introducción al Teorema de Recursión de Kleene a través de los quines y la auto-reproducción de programas. Entender auto-reproducción de código es exactamente la base teórica de los virus/malware. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Dr_Quine?style=flat-square) |
 | [`ft_shield`](https://github.com/4trastos/ft_shield) |  `ft_shield` es un **troyano** simple escrito en C o ASM. Un troyano es un tipo de **malware** que se disfraza de software legítimo para instalarse en el sistema de la víctima sin que esta lo sepa. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/ft_shield?style=flat-square) |
