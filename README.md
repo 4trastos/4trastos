@@ -47,6 +47,8 @@
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
+| [`War`](https://github.com/4trastos/War) | Un virus polimórfico es un virus informático que modifica su representación al replicarse.
+Esto impide que el software antivirus identifique su firma. ADVERTENCIA: ¡Este proyecto tiene fines exclusivamente educativos!. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/War?style=flat-square) |
 | [`Pestilence`](https://github.com/4trastos/Pestilence) |  Pestilence es la evolución de [`famine`](https://github.com/4trastos/famine). Mantiene la misma funcionalidad de infección de binarios ELF64 pero añade tres capas de protección. ADVERTENCIA: ¡Este proyecto tiene fines exclusivamente educativos!. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Pestilence?style=flat-square) |
 | [`famine`](https://github.com/4trastos/famine) |  El objetivo aquí es poner en práctica tus habilidades para manejar archivos binarios y crear tu primer virus. ADVERTENCIA: ¡Este proyecto tiene fines exclusivamente educativos!. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/famine?style=flat-square) |
 | [`Dr_Quine`](https://github.com/4trastos/Dr_Quine) |  Introducción al Teorema de Recursión de Kleene a través de los quines y la auto-reproducción de programas. Entender auto-reproducción de código es exactamente la base teórica de los virus/malware. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Dr_Quine?style=flat-square) |
