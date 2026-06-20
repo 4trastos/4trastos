@@ -177,7 +177,7 @@ Testeadas localmente con Criterion antes de envío.
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
-| [`Clonador de Tarjetas Breezair (SLE4442)`](https://github.com/4trastos/Breezair_Card_Cloner_-SLE4442-) | EHerramientas para leer y clonar las tarjetas de memoria de equipos Australair / Breezair usando un lector ACS ACR39U en macOS.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Breezair_Card_Cloner_-SLE4442-?style=flat-square) |
+| [`Clonador de Tarjetas (SLE4442)`](https://github.com/4trastos/Card_Cloner_-SLE4442-) | Herramientas para leer y clonar las tarjetas de memoria descatalogadas de equipos Australair / Breezair usando un lector ACS ACR39U en macOS.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Card_Cloner_-SLE4442-?style=flat-square) |
 | [`Retro Terminal Themes`](https://github.com/4trastos/Retro-Terminal-Themes) | Este proyecto permite cambiar fácilmente los colores de **GNOME Terminal** al estilo de computadoras antiguas.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Retro-Terminal-Themes?style=flat-square) |
 | [`CloudServer_Tutorial`](https://github.com/4trastos/CloudServer_Tutorial) | Configuración de un Servidor Ubuntu para Servicios en la Nube.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/CloudServer_Tutorial?style=flat-square) |
 | [`Python-Tutorials`](https://github.com/4trastos/Python-Tutorials) |  Repositorio diseñado como ayuda a profundizar en conceptos avanzados y útiles de Python | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Python-Tutorials?style=flat-square) |
