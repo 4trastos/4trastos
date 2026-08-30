@@ -17,6 +17,7 @@
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
+| [`Minishell`](https://github.com/4trastos/42sh) | Este proyecto consiste en crear una shell completa. Empezando con funcionalidades básicas y ampliándolo hasta incluir control de trabajos y scripting, usando estándares UNIX/POSIX. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/42sh?style=flat-square) |
 | [`taskmaster`](https://github.com/4trastos/taskmaster) | `taskmaster` es un job-control daemon similar a supervisord para lanzar, supervisar y mantener procesos según una configuración definida. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/taskmaster?style=flat-square) |
 | [`strace`](https://github.com/4trastos/strace) | `strace` es una herramienta de depuración para Linux que utiliza la función del kernel `ptrace` para monitorear las llamadas al sistema y las señales de un programa. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/strace?style=flat-square) |
 | [`lem-ipc`](https://github.com/4trastos/lem-ipc) | El objetivo del proyecto es que dos procesos se comuniquen e interactúen. Las preguntas frecuentes incluidas en el archivo faq.txt forman parte del tema. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/lem-ipc?style=flat-square) |
