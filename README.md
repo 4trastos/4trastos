@@ -165,6 +165,7 @@ Testeadas localmente con Criterion antes de envío.
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
+| [`HomeConnect`](https://github.com/4trastos/HomeConnect) | Sistema de automatización doméstica escrito en C, con SQLite, API, scheduler y Modbus RTU como bus de campo. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/HomeConnect?style=flat-square) |
 | [`Health-Tech App `](https://github.com/4trastos/Health-Tech-App) | Health-Tech App es una aplicación web desarrollada en Python/Flask que permite subir informes clínicos en PDF y obtener un análisis profesional automático mediante IA (Google Gemini). | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Health-Tech-App?style=flat-square) |
 | [`AustralairBudget`](https://github.com/4trastos/AustralairBudget) | Desarrollo de un software de presupuestos en C++ multiplataforma, con una interfaz amigable y maneja una base de datos local | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/AustralairBudget?style=flat-square) |
 | [`ExpenditureControl`](https://github.com/4trastos/ExpenditureControl) | Aplicación en Python para el control de pedidos mediante la extracción de datos de facturas PDF, almacenamiento en BBDD y generación de estadísticas,visualizaciones y proyección de gastos con Machine Learning.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/ExpenditureControl?style=flat-square) |
