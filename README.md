@@ -57,6 +57,7 @@
 | [`Over_Ride`](https://github.com/4trastos/OverRide) |  Over Ride es pura **ingeniería inversa y explotación de binarios en C** de 64 bits. Este proyecto, que sigue el ejemplo del proyecto RainFall, te enseñará a explotar el binario (similar a un elfo)..| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/OverRide?style=flat-square) |
 | [`Rainfall`](https://github.com/4trastos/Rainfall) |  Rainfall se centra en **ingeniería inversa y explotación de binarios en C** de 32 bits. Aquí es donde conceptos como el *Stack*, el *Heap*, los registros de la CPU y las direcciones de memoria se vuelven tus mejores amigos.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Rainfall?style=flat-square) |
 | [`Snow_Crash`](https://github.com/4trastos/Snow_Crash) | Snow Crash es un wargame de seguridad. Para dominar la explotación de vulnerabilidades reales adoptando la mentalidad de un atacante mediante razonamiento lógico, paciencia y una metodología sólida.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Snow_Crash?style=flat-square) |
+| [`MarauderV8 - Ciberseguridad`](https://github.com/4trastos/MarauderV8) | Guía completa de auditoría WiFi con ESP32 Marauder v8, desde la instalación del firmware hasta el análisis forense con Wireshark y el cracking con Hashcat.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/MarauderV8?style=flat-square) |
 
 ---
 
@@ -179,7 +180,6 @@ Testeadas localmente con Criterion antes de envío.
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
-| [`MarauderV8 - Ciberseguridad`](https://github.com/4trastos/MarauderV8) | Guía completa de auditoría WiFi con ESP32 Marauder v8, desde la instalación del firmware hasta el análisis forense con Wireshark y el cracking con Hashcat.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/MarauderV8?style=flat-square) |
 | [`Clonador de Tarjetas (SLE4442)`](https://github.com/4trastos/Card_Cloner_-SLE4442-) | Herramientas para leer y clonar las tarjetas de memoria descatalogadas de equipos Eavporativos usando un lector ACS ACR39U en Linux y en macOS.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Card_Cloner_-SLE4442-?style=flat-square) |
 | [`Retro Terminal Themes`](https://github.com/4trastos/Retro-Terminal-Themes) | Este proyecto permite cambiar fácilmente los colores de **GNOME Terminal** al estilo de computadoras antiguas.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Retro-Terminal-Themes?style=flat-square) |
 | [`CloudServer_Tutorial`](https://github.com/4trastos/CloudServer_Tutorial) | Configuración de un Servidor Ubuntu para Servicios en la Nube.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/CloudServer_Tutorial?style=flat-square) |
