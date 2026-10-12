@@ -179,7 +179,7 @@ Testeadas localmente con Criterion antes de envío.
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
-| [`MarauderV8 - Ciberseguridad`](https://github.com/4trastos/MarauderV8) | NIST tutorial and technical evaluation / Tutorial NIST y evaluación técnica.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/MarauderV8?style=flat-square) |
+| [`MarauderV8 - Ciberseguridad`](https://github.com/4trastos/MarauderV8) | Guía completa de auditoría WiFi con ESP32 Marauder v8, desde la instalación del firmware hasta el análisis forense con Wireshark y el cracking con Hashcat.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/MarauderV8?style=flat-square) |
 | [`Clonador de Tarjetas (SLE4442)`](https://github.com/4trastos/Card_Cloner_-SLE4442-) | Herramientas para leer y clonar las tarjetas de memoria descatalogadas de equipos Eavporativos usando un lector ACS ACR39U en Linux y en macOS.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Card_Cloner_-SLE4442-?style=flat-square) |
 | [`Retro Terminal Themes`](https://github.com/4trastos/Retro-Terminal-Themes) | Este proyecto permite cambiar fácilmente los colores de **GNOME Terminal** al estilo de computadoras antiguas.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Retro-Terminal-Themes?style=flat-square) |
 | [`CloudServer_Tutorial`](https://github.com/4trastos/CloudServer_Tutorial) | Configuración de un Servidor Ubuntu para Servicios en la Nube.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/CloudServer_Tutorial?style=flat-square) |
