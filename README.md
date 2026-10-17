@@ -58,6 +58,7 @@
 | [`Rainfall`](https://github.com/4trastos/Rainfall) |  Rainfall se centra en **ingeniería inversa y explotación de binarios en C** de 32 bits. Aquí es donde conceptos como el *Stack*, el *Heap*, los registros de la CPU y las direcciones de memoria se vuelven tus mejores amigos.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Rainfall?style=flat-square) |
 | [`Snow_Crash`](https://github.com/4trastos/Snow_Crash) | Snow Crash es un wargame de seguridad. Para dominar la explotación de vulnerabilidades reales adoptando la mentalidad de un atacante mediante razonamiento lógico, paciencia y una metodología sólida.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Snow_Crash?style=flat-square) |
 | [`MarauderV8 - Ciberseguridad`](https://github.com/4trastos/MarauderV8) | Guía completa de auditoría WiFi con ESP32 Marauder v8, desde la instalación del firmware hasta el análisis forense con Wireshark y el cracking con Hashcat.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/MarauderV8?style=flat-square) |
+| [`Capturar tramas WiFi en PCAP`](https://github.com/4trastos/Capturar-tramas-WiFi-en-PCAP) | Proyecto práctico para aprender a observar y analizar tráfico WiFi desde Linux utilizando las herramientas del sistema, una tarjeta inalámbrica compatible con modo monitor y capturas en formato PCAP.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Capturar-tramas-WiFi-en-PCAP?style=flat-square) |
 
 ---
 
