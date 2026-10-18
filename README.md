@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=700&lines=Systems+%26+Kernel+Engineer+%40+42Madrid;Low-Level+C%2FC%2B%2B+%7C+Linux+Kernel+%7C+Embedded+Systems;Virtualization+%7C+KVM+%7C+Docker+%7C+Networking;Production+Infrastructure+%7C+High+Availability+%7C+Performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Kernel+%26+Systems;Industrial+%26+Embedded+Software+Developer;Low-Level+C%2FC%2B%2B+%7C+Linux+%7C+Modbus;Systems+Programming+%7C+OS+Internals;42+Network+%7C+Systems+%26+Kernel+Engineering;Building+Reliable%2C+Efficient+Software" alt="Software Engineer - Kernel and Systems" />
 </p>
 
 ---
 
 ### 👋 ¡Hola! Soy David Gallego Gómez
 
-🎓 Systems & Kernel Engineer @42Network (Paris) | RNCP7   
-🛠️ Low-Level C/C++ | Linux Kernel | Embedded Systems | Kubernetes | Docker | KVM | Networks  
-💼 IT Engineer @ Australair — Production infrastructure: Odoo, Nextcloud, WAF, NAS  
-🔍 Passionate about OS internals, kernel tools, binary exploitation and low-level optimization
+🎓 Systems & Kernel Engineering @ 42Network (Paris) | RNCP Level 7<br>
+💼 Software Engineer | Kernel & Systems @ Australair<br>
+⚙️ Industrial & Embedded Software Development | C | Linux | Modbus<br>
+🛠️ Low-Level C/C++ | Linux Internals | Networking | Docker | Kubernetes<br>
+🔍 Passionate about Systems Programming, OS Internals, Kernel Development & Performance Optimization
 
 ---
 
