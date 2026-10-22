@@ -6,11 +6,11 @@
 
 ### 👋 ¡Hola! Soy David Gallego Gómez
 
-🎓 Systems & Kernel Engineering @ 42Network (Paris) | RNCP Level 7<br>
+🎓 RNCP Level 7 Certified | Systems & Kernel Engineering @ 42 Network (Paris)<br>
 💼 Software Engineer | Kernel & Systems @ Australair<br>
 ⚙️ Industrial & Embedded Software Development | C | Linux | Modbus<br>
 🛠️ Low-Level C/C++ | Linux Internals | Networking | Docker | Kubernetes<br>
-🔍 Passionate about Systems Programming, OS Internals, Kernel Development & Performance Optimization
+🔍 Systems Programming | OS Internals | Kernel Development | Performance Optimization
 
 ---
 
