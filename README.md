@@ -18,7 +18,6 @@
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
-| [`MIT 6.1810 — Operating System Engineering`](https://github.com/4trastos/mit-6.1810-operating-systems) | Laboratorio práctico de ingeniería de sistemas operativos con xv6 y RISC-V. Estudio de kernel, llamadas al sistema, gestión de memoria, procesos y concurrencia. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/mit-6.1810-operating-systems?style=flat-square) |
 | [`taskmaster`](https://github.com/4trastos/taskmaster) | `taskmaster` es un job-control daemon similar a supervisord para lanzar, supervisar y mantener procesos según una configuración definida. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/taskmaster?style=flat-square) |
 | [`strace`](https://github.com/4trastos/strace) | `strace` es una herramienta de depuración para Linux que utiliza la función del kernel `ptrace` para monitorear las llamadas al sistema y las señales de un programa. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/strace?style=flat-square) |
 | [`lem-ipc`](https://github.com/4trastos/lem-ipc) | El objetivo del proyecto es que dos procesos se comuniquen e interactúen. Las preguntas frecuentes incluidas en el archivo faq.txt forman parte del tema. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/lem-ipc?style=flat-square) |
@@ -181,6 +180,7 @@ Testeadas localmente con Criterion antes de envío.
 
 | Proyecto         | Descripción | Última actualización |
 |------------------|-------------|----------------------|
+| [`MIT 6.1810 — Operating System Engineering`](https://github.com/4trastos/mit-6.1810-operating-systems) | Laboratorio práctico de ingeniería de sistemas operativos con xv6 y RISC-V. Estudio de kernel, llamadas al sistema, gestión de memoria, procesos y concurrencia. | ![Última actualización](https://img.shields.io/github/last-commit/4trastos/mit-6.1810-operating-systems?style=flat-square) |
 | [`Clonador de Tarjetas (SLE4442)`](https://github.com/4trastos/Card_Cloner_-SLE4442-) | Herramientas para leer y clonar las tarjetas de memoria descatalogadas de equipos Eavporativos usando un lector ACS ACR39U en Linux y en macOS.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Card_Cloner_-SLE4442-?style=flat-square) |
 | [`Retro Terminal Themes`](https://github.com/4trastos/Retro-Terminal-Themes) | Este proyecto permite cambiar fácilmente los colores de **GNOME Terminal** al estilo de computadoras antiguas.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/Retro-Terminal-Themes?style=flat-square) |
 | [`CloudServer_Tutorial`](https://github.com/4trastos/CloudServer_Tutorial) | Configuración de un Servidor Ubuntu para Servicios en la Nube.| ![Última actualización](https://img.shields.io/github/last-commit/4trastos/CloudServer_Tutorial?style=flat-square) |
