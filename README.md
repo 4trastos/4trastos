@@ -156,7 +156,7 @@ Testeadas localmente con Criterion antes de envío.
 
 | Language | Rank | Katas Completed |
 |----------|------|-----------------|
-| C        | 4 kyu | 27             |
+| C        | 4 kyu | 28             |
 | C++      | 7 kyu | 1              |
 | Python   | 8 kyu | 3              |
 
